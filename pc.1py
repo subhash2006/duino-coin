@@ -460,15 +460,15 @@ def loadConfig():
         else:
             algorithm = "1"
 
-        efficiency = "500"
+        efficiency = "100"
 
-        threadcount = "8"
+        threadcount = "5"
 
        
 
         requested_diff = "2"
         
-        rig_identiier = "miner 3"
+        rig_identiier = "miner google"
 
         
 
