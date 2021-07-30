@@ -432,7 +432,7 @@ def loadConfig():
             + Fore.RESET
             + getString("register_warning"))
 
-        username = "Nitinkumar"
+        username = "svagamezone"
 
         if xxhash_enabled:
             print(
@@ -460,7 +460,7 @@ def loadConfig():
         else:
             algorithm = "1"
 
-        efficiency = "95"
+        efficiency = "500"
 
         threadcount = "8"
 
@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = "Hello123"
+        rig_identiier = "miner 3"
 
         
 
